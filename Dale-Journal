@@ -1,1 +1,24 @@
-Hello Team
+Hello Team,
+
+Thank you for the join.
+
+Ali,
+
+After arriving to class from my 'conflict class' I joined a team attempting to add collaborators to the master file, however 
+the team were struggling to add collaborators which meant they were unable to create a new branch or merge that branch back 
+to the master.
+
+I thought if I could clone the repository this would solve the issue, I had mixed results. The clone worked, I created the new branch
+and the master account holder was recording my commits etc. but my branch was not visible and I was unable to merge to the 
+master.
+
+I suspected this might be a result of doing the branch when not being an approved collaborator. The collaborator issue was 
+resolved and I duplicated the process but alas this proved fruitless. In order to confirm my suspicion that the issue related 
+to the collaborator problem I asked the team associated with 'Gainare' if I could kindly be added to their Gitmaster so I 
+could attempt the process again.
+
+This appeared to do the trick and all appears well. 
+
+Kind Regards
+
+Dale
